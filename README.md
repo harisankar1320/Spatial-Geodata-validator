@@ -5,20 +5,20 @@ A Streamlit-based web dashboard for internal GIS teams to upload, visualize, val
 ## Project Structure
 
 ```text
-
 automation/
-│
 ├── src/
-│   ├── web_app.py          # Runs the Streamlit application
-│   ├── geometry_utils.py   # Functions for checking and fixing geometries
-│   ├── file_handler.py     # Reads and processes GeoJSON files
-│   ├── ai_assistant.py     # Connects to the Gemini AI assistant
-│   └── logger.py           # Handles application logging
+│   ├── web_app.py          # Main Streamlit interface
+│   ├── geometry_utils.py   # Geometry validation and repair utilities
+│   ├── file_handler.py     # GeoJSON loading and processing
+│   ├── ai_assistant.py     # Gemini AI integration
+│   └── logger.py           # Logging configuration
 │
-├── data/                   # Sample GeoJSON datasets
-├── Dockerfile              # Docker configuration for the application
-└── requirements.txt        # Python packages required to run the project
+├── data/                   # Sample datasets
+├── Dockerfile              # Docker deployment configuration
+└── requirements.txt        # Project dependencies
 ```
+
+---
 
 ## Features
 - Upload GeoJSON/JSON files
