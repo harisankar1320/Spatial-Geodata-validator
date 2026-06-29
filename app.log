@@ -1,0 +1,166 @@
+2026-06-29 09:44:52,059 - INFO - File uploaded successfully
+2026-06-29 09:44:56,704 - INFO - File uploaded successfully
+2026-06-29 09:45:21,459 - INFO - File uploaded successfully
+2026-06-29 09:45:23,849 - INFO - File uploaded successfully
+2026-06-29 09:45:34,327 - INFO - File uploaded successfully
+2026-06-29 09:45:35,404 - INFO - File uploaded successfully
+2026-06-29 09:45:36,356 - INFO - File uploaded successfully
+2026-06-29 09:45:37,660 - INFO - File uploaded successfully
+2026-06-29 09:45:45,161 - INFO - File uploaded successfully
+2026-06-29 09:45:45,707 - INFO - File uploaded successfully
+2026-06-29 09:45:46,252 - INFO - File uploaded successfully
+2026-06-29 09:45:48,397 - INFO - File uploaded successfully
+2026-06-29 09:45:48,900 - INFO - File uploaded successfully
+2026-06-29 09:45:49,478 - INFO - File uploaded successfully
+2026-06-29 09:45:52,901 - INFO - File uploaded successfully
+2026-06-29 09:45:54,497 - INFO - File uploaded successfully
+2026-06-29 09:53:11,639 - INFO - File uploaded successfully
+2026-06-29 09:53:13,920 - INFO - File uploaded successfully
+2026-06-29 09:53:17,651 - INFO - File uploaded successfully
+2026-06-29 09:53:22,315 - INFO - File uploaded successfully
+2026-06-29 09:53:23,247 - INFO - File uploaded successfully
+2026-06-29 09:53:23,760 - INFO - File uploaded successfully
+2026-06-29 09:53:33,132 - INFO - File uploaded successfully
+2026-06-29 09:53:33,686 - INFO - File uploaded successfully
+2026-06-29 09:53:34,121 - INFO - File uploaded successfully
+2026-06-29 09:53:40,960 - INFO - File uploaded successfully
+2026-06-29 09:53:42,214 - INFO - File uploaded successfully
+2026-06-29 09:53:43,195 - INFO - File uploaded successfully
+2026-06-29 09:53:43,731 - INFO - File uploaded successfully
+2026-06-29 10:47:46,497 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:47:46,607 - WARNING - 1 duplicates found
+2026-06-29 10:47:46,704 - WARNING - 1 invalid geometries found
+2026-06-29 10:47:48,877 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:47:48,963 - WARNING - 1 duplicates found
+2026-06-29 10:47:48,983 - WARNING - 1 invalid geometries found
+2026-06-29 10:47:49,230 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:47:49,287 - WARNING - 1 duplicates found
+2026-06-29 10:47:49,301 - WARNING - 1 invalid geometries found
+2026-06-29 10:48:09,117 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:48:09,183 - WARNING - 1 duplicates found
+2026-06-29 10:48:09,200 - WARNING - 1 invalid geometries found
+2026-06-29 10:48:09,223 - INFO - AFC is enabled with max remote calls: 10.
+2026-06-29 10:48:09,383 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-06-29 10:48:25,159 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:48:25,228 - WARNING - 1 duplicates found
+2026-06-29 10:48:25,242 - INFO - Duplicates removed by user
+2026-06-29 10:48:25,244 - WARNING - 1 invalid geometries found
+2026-06-29 10:48:25,594 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:48:25,625 - WARNING - 0 duplicates found
+2026-06-29 10:48:25,630 - WARNING - 1 invalid geometries found
+2026-06-29 10:48:25,916 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:48:25,954 - WARNING - 0 duplicates found
+2026-06-29 10:48:25,960 - WARNING - 1 invalid geometries found
+2026-06-29 10:48:27,735 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:48:27,761 - WARNING - 0 duplicates found
+2026-06-29 10:48:27,766 - WARNING - 1 invalid geometries found
+2026-06-29 10:48:27,796 - INFO - Invalid geometries fixed by user
+2026-06-29 10:48:28,078 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:48:28,110 - WARNING - 0 duplicates found
+2026-06-29 10:48:28,362 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:48:28,388 - WARNING - 0 duplicates found
+2026-06-29 10:48:44,848 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:48:44,880 - WARNING - 0 duplicates found
+2026-06-29 10:48:44,954 - INFO - AFC is enabled with max remote calls: 10.
+2026-06-29 10:48:45,068 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-06-29 10:49:45,535 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:49:45,552 - WARNING - 0 duplicates found
+2026-06-29 10:49:54,632 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:49:54,660 - WARNING - 0 duplicates found
+2026-06-29 10:49:54,727 - INFO - AFC is enabled with max remote calls: 10.
+2026-06-29 10:49:54,813 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-06-29 10:53:14,713 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:53:14,787 - WARNING - 1 duplicates found
+2026-06-29 10:53:14,919 - WARNING - 1 invalid geometries found
+2026-06-29 10:53:16,858 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:53:16,923 - WARNING - 1 duplicates found
+2026-06-29 10:53:16,944 - WARNING - 1 invalid geometries found
+2026-06-29 10:53:17,161 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:53:17,220 - WARNING - 1 duplicates found
+2026-06-29 10:53:17,233 - WARNING - 1 invalid geometries found
+2026-06-29 10:53:18,887 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:53:18,939 - WARNING - 1 duplicates found
+2026-06-29 10:53:18,959 - INFO - Duplicates removed by user
+2026-06-29 10:53:18,964 - WARNING - 1 invalid geometries found
+2026-06-29 10:53:19,247 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:53:19,276 - WARNING - 0 duplicates found
+2026-06-29 10:53:19,283 - WARNING - 1 invalid geometries found
+2026-06-29 10:53:19,561 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:53:19,596 - WARNING - 0 duplicates found
+2026-06-29 10:53:19,602 - WARNING - 1 invalid geometries found
+2026-06-29 10:53:20,927 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:53:20,956 - WARNING - 0 duplicates found
+2026-06-29 10:53:20,961 - WARNING - 1 invalid geometries found
+2026-06-29 10:53:20,986 - INFO - Invalid geometries fixed by user
+2026-06-29 10:53:21,262 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:53:21,293 - WARNING - 0 duplicates found
+2026-06-29 10:53:21,543 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:53:21,579 - WARNING - 0 duplicates found
+2026-06-29 10:53:33,929 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:53:33,957 - WARNING - 0 duplicates found
+2026-06-29 10:53:34,029 - INFO - AFC is enabled with max remote calls: 10.
+2026-06-29 10:53:34,173 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-06-29 10:54:48,831 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:54:48,911 - WARNING - 1 duplicates found
+2026-06-29 10:54:49,013 - WARNING - 1 invalid geometries found
+2026-06-29 10:54:51,082 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:54:51,140 - WARNING - 1 duplicates found
+2026-06-29 10:54:51,159 - INFO - Duplicates removed by user
+2026-06-29 10:54:51,159 - WARNING - 1 invalid geometries found
+2026-06-29 10:54:51,406 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:54:51,439 - WARNING - 0 duplicates found
+2026-06-29 10:54:51,439 - WARNING - 1 invalid geometries found
+2026-06-29 10:54:51,689 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:54:51,723 - WARNING - 0 duplicates found
+2026-06-29 10:54:51,730 - WARNING - 1 invalid geometries found
+2026-06-29 10:54:51,810 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:54:51,997 - WARNING - 0 duplicates found
+2026-06-29 10:54:52,005 - WARNING - 1 invalid geometries found
+2026-06-29 10:54:53,434 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:54:53,464 - WARNING - 0 duplicates found
+2026-06-29 10:54:53,468 - WARNING - 1 invalid geometries found
+2026-06-29 10:54:53,496 - INFO - Invalid geometries fixed by user
+2026-06-29 10:54:53,785 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:54:53,814 - WARNING - 0 duplicates found
+2026-06-29 10:54:54,108 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:54:54,138 - WARNING - 0 duplicates found
+2026-06-29 10:55:02,548 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:55:02,591 - WARNING - 0 duplicates found
+2026-06-29 10:55:02,669 - INFO - AFC is enabled with max remote calls: 10.
+2026-06-29 10:55:03,439 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-06-29 10:55:48,775 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:55:48,824 - WARNING - 0 duplicates found
+2026-06-29 10:55:48,904 - INFO - AFC is enabled with max remote calls: 10.
+2026-06-29 10:55:50,801 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-06-29 10:56:13,119 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 10:56:13,156 - WARNING - 0 duplicates found
+2026-06-29 10:56:13,240 - INFO - AFC is enabled with max remote calls: 10.
+2026-06-29 10:56:13,816 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-06-29 11:38:08,425 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 11:38:08,512 - WARNING - 1 duplicates found
+2026-06-29 11:38:08,642 - WARNING - 1 invalid geometries found
+2026-06-29 11:38:11,134 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 11:38:11,210 - WARNING - 1 duplicates found
+2026-06-29 11:38:11,245 - INFO - Duplicates removed by user
+2026-06-29 11:38:11,247 - WARNING - 1 invalid geometries found
+2026-06-29 11:38:11,481 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 11:38:11,521 - WARNING - 0 duplicates found
+2026-06-29 11:38:11,527 - WARNING - 1 invalid geometries found
+2026-06-29 11:38:11,743 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 11:38:11,783 - WARNING - 0 duplicates found
+2026-06-29 11:38:11,789 - WARNING - 1 invalid geometries found
+2026-06-29 11:38:11,996 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 11:38:12,038 - WARNING - 0 duplicates found
+2026-06-29 11:38:12,043 - WARNING - 1 invalid geometries found
+2026-06-29 11:38:15,078 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 11:38:15,105 - WARNING - 0 duplicates found
+2026-06-29 11:38:15,112 - WARNING - 1 invalid geometries found
+2026-06-29 11:38:15,144 - INFO - Invalid geometries fixed by user
+2026-06-29 11:38:15,402 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 11:38:15,444 - WARNING - 0 duplicates found
+2026-06-29 11:38:15,689 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 11:38:15,718 - WARNING - 0 duplicates found
+2026-06-29 11:38:30,340 - INFO - File uploaded: Farm_file.geojson
+2026-06-29 11:38:30,367 - WARNING - 0 duplicates found
+2026-06-29 11:38:30,446 - INFO - AFC is enabled with max remote calls: 10.
+2026-06-29 11:38:31,216 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
