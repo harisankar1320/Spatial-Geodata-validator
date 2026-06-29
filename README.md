@@ -1,6 +1,6 @@
 # GeoJSON Dashboard
 
-A Streamlit-based web dashboard for internal GIS teams to upload, visualize, validate, and clean GeoJSON farm polygon data — supporting EUDR compliance workflows at GRAS.
+A Streamlit-based web dashboard for internal GIS teams to upload, visualize, validate, and clean GeoJSON farm polygon data, supporting EUDR compliance workflows.
 
 ## Project Structure
 
