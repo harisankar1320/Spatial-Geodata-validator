@@ -4,6 +4,8 @@ A Streamlit-based web dashboard for internal GIS teams to upload, visualize, val
 
 ## Project Structure
 
+```text
+
 automation/
 │
 ├── src/
@@ -16,6 +18,7 @@ automation/
 ├── data/                   # Sample GeoJSON datasets
 ├── Dockerfile              # Docker configuration for the application
 └── requirements.txt        # Python packages required to run the project
+```
 
 ## Features
 - Upload GeoJSON/JSON files
